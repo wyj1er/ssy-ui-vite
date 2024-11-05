@@ -50,3 +50,6 @@ component.init();
 ## 许可协议
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# 欢迎提PR
+一起加入项目
